@@ -7,3 +7,7 @@ A clean and intuitive To-Do List application that helps you organize your tasks 
 - 🗑️ Delete tasks
 - 📋 Mark tasks as completed
   
+## 📸 Screenshots
+
+![App Screenshot](assets/first.png)
+
